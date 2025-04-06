@@ -1,0 +1,19 @@
+pane	dsa	0	0	:-	0	SAUCEBXSS	:/mnt/e/e-drive/coding/newnew/py/dsa	1	zsh	:
+pane	dsa	1	1	:*	0	SAUCEBXSS	:/mnt/e/e-drive/coding/newnew/py/dsa	1	nvim	:nvim execution_tracer.py
+pane	mysql-playground	0	1	:*	0	SAUCEBXSS	:/mnt/e/e-drive/coding/newnew/notes/MYSQL-NOTES	1	nvim	:nvim notes.md
+pane	mysql-playground	1	0	:-	0	SAUCEBXSS	:/mnt/e/e-drive/coding/newnew/notes/MYSQL-NOTES	1	zsh	:
+pane	pypg	0	1	:*	0	SAUCEBXSS	:/mnt/e/e-drive/coding/newnew/py/_playground/python-crash-course-book	1	nvim	:nvim notes.md
+pane	pypg	1	0	:-	0	SAUCEBXSS	:/mnt/e/e-drive/coding/newnew/py/_playground/python-crash-course-book	1	zsh	:
+pane	sqlite playground	0	1	:*	0	SAUCEBXSS	:/mnt/e/e-drive/coding/newnew/py/todo-cli	1	nvim	:nvim sqlite-notes.md
+pane	sqlite playground	1	0	:-	0	SAUCEBXSS	:/mnt/e/e-drive/coding/newnew/py/todo-cli	1	zsh	:
+pane	sqlite playground	2	0	:	0	SAUCEBXSS	:/mnt/e/e-drive/coding/newnew/py/todo-cli	1	nvim	:nvim sqlite3-sylla-tutspoint.md
+window	dsa	0	:zsh	0	:-	6418,131x28,0,0,19	:
+window	dsa	1	:nvim	1	:*	c7bf,131x28,0,0,2	:
+window	mysql-playground	0	:nvim	1	:*	c004,122x26,0,0,7	:
+window	mysql-playground	1	:zsh	0	:-	c005,122x26,0,0,8	:
+window	pypg	0	:nvim	1	:*	c006,122x26,0,0,9	:
+window	pypg	1	:zsh	0	:-	602f,122x26,0,0,10	:
+window	sqlite playground	0	:nvim	1	:*	6030,122x26,0,0,11	:
+window	sqlite playground	1	:zsh	0	:-	6031,122x26,0,0,12	:
+window	sqlite playground	2	:nvim	0	:	6032,122x26,0,0,13	:
+state	dsa	

@@ -1,0 +1,22 @@
+pane	course-upload-tele	0	0	:	0	SAUCEBXSS	:/mnt/e/e-drive/coding/newnew/py/telegram_scripting_shit	1	zsh	:
+pane	course-upload-tele	1	0	:-	0	SAUCEBXSS	:/mnt/e/e-drive/coding/newnew/py/telegram_scripting_shit/folder-to-topic	1	nvim	:nvim main.py
+pane	course-upload-tele	2	1	:*	0	SAUCEBXSS	:/mnt/e/e-drive/coding/newnew/py/_playground	1	nvim	:nvim ddos-attack-dolphin.py
+pane	mysql-playground	0	1	:*	0	SAUCEBXSS	:/mnt/e/e-drive/coding/newnew/notes/MYSQL-NOTES	1	nvim	:nvim notes.md
+nvim notes.md
+pane	mysql-playground	1	0	:-	0	SAUCEBXSS	:/mnt/e/e-drive/coding/newnew/notes/MYSQL-NOTES	1	sudo	:sudo mysql
+pane	pypg	0	1	:*	0	SAUCEBXSS	:/mnt/e/e-drive/coding/newnew/py/_playground/python-crash-course-book	1	zsh	:
+pane	pypg	1	0	:-	0	SAUCEBXSS	:/mnt/e/e-drive/coding/newnew/py/_playground/python-crash-course-book	1	zsh	:
+pane	sqlite playground	0	1	:*	0	SAUCEBXSS	:/mnt/e/e-drive/coding/newnew/py/todo-cli	1	nvim	:nvim sqlite-notes.md
+pane	sqlite playground	1	0	:-	0	SAUCEBXSS	:/mnt/e/e-drive/coding/newnew/py/todo-cli	1	zsh	:
+pane	sqlite playground	2	0	:	0	SAUCEBXSS	:/mnt/e/e-drive/coding/newnew/py/todo-cli	1	nvim	:nvim sqlite3-sylla-tutspoint.md
+window	course-upload-tele	0	:zsh	0	:	a79e,58x11,0,0,1	:
+window	course-upload-tele	1	:nvim	0	:-	a79f,58x11,0,0,2	:
+window	course-upload-tele	2	:nvim	1	:*	a7a0,58x11,0,0,3	:
+window	mysql-playground	0	:nvim	1	:*	a761,67x30,0,0,4	:
+window	mysql-playground	1	:sudo	0	:-	a762,67x30,0,0,5	:
+window	pypg	0	:zsh	1	:*	a7a3,58x11,0,0,6	:
+window	pypg	1	:zsh	0	:-	a7a4,58x11,0,0,7	:
+window	sqlite playground	0	:nvim	1	:*	a7a5,58x11,0,0,8	:
+window	sqlite playground	1	:zsh	0	:-	a7a6,58x11,0,0,9	:
+window	sqlite playground	2	:nvim	0	:	53ff,58x11,0,0,10	:
+state	mysql-playground	pypg

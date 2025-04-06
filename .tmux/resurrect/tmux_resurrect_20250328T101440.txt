@@ -1,0 +1,27 @@
+pane	course-upload-tele	0	0	:	0	SAUCEBXSS	:/mnt/e/e-drive/coding/newnew/py/telegram_scripting_shit	1	nvim	:nvim getFileNamesDynamic.py
+pane	course-upload-tele	1	1	:*	0	SAUCEBXSS	:/mnt/e/e-drive/coding/newnew/py/telegram_scripting_shit/gpt-error-checking-test	1	nvim	:nvim existing_code.test.py
+pane	course-upload-tele	2	0	:-	0	SAUCEBXSS	:/mnt/e/e-drive/coding/newnew/py/telegram_scripting_shit	1	nvim	:nvim createGroupWithTopic.py
+pane	course-upload-tele	3	0	:	0	SAUCEBXSS	:/mnt/e/e-drive/coding/newnew/py/telegram_scripting_shit/gpt-error-checking-test	1	zsh	:
+pane	mysql-playground	0	1	:*	0	SAUCEBXSS	:/mnt/e/e-drive/coding/newnew/notes/MYSQL-NOTES	1	nvim	:nvim notes.md
+pane	mysql-playground	1	0	:-	0	SAUCEBXSS	:/mnt/e/e-drive/coding/newnew/notes/MYSQL-NOTES	1	zsh	:
+pane	pypg	0	1	:*	0	SAUCEBXSS	:/mnt/e/e-drive/coding/newnew/py/_playground/python-crash-course-book	1	zsh	:
+pane	pypg	1	0	:-	0	SAUCEBXSS	:/mnt/e/e-drive/coding/newnew/py/_playground/python-crash-course-book	1	zsh	:
+pane	sqlite playground	0	1	:*	0	SAUCEBXSS	:/mnt/e/e-drive/coding/newnew/py/todo-cli	1	nvim	:nvim sqlite-notes.md
+pane	sqlite playground	1	0	:-	0	SAUCEBXSS	:/mnt/e/e-drive/coding/newnew/py/todo-cli	1	zsh	:
+pane	sqlite playground	2	0	:	0	SAUCEBXSS	:/mnt/e/e-drive/coding/newnew/py/todo-cli	1	nvim	:nvim sqlite3-sylla-tutspoint.md
+pane	test	0	0	:-	0	SAUCEBXSS	:/mnt/e/e-drive/coding/newnew/js/_NODEJS/_playground/server-sent-events-medium	1	nvim	:nvim index.js
+pane	test	1	1	:*	0	SAUCEBXSS	:/mnt/e/e-drive/coding/newnew/js/_NODEJS/_playground/server-sent-events-medium	1	zsh	:
+window	course-upload-tele	0	:nvim	0	:	64f1,167x37,0,0,12	:
+window	course-upload-tele	1	:nvim	1	:*	64f2,167x37,0,0,13	:
+window	course-upload-tele	2	:nvim	0	:-	64f5,167x37,0,0,16	:
+window	course-upload-tele	3	:zsh	0	:	64f6,167x37,0,0,17	:
+window	mysql-playground	0	:nvim	1	:*	bffe,122x26,0,0,1	:
+window	mysql-playground	1	:zsh	0	:-	bfff,122x26,0,0,2	:
+window	pypg	0	:zsh	1	:*	c000,122x26,0,0,3	:
+window	pypg	1	:zsh	0	:-	c001,122x26,0,0,4	:
+window	sqlite playground	0	:nvim	1	:*	c002,122x26,0,0,5	:
+window	sqlite playground	1	:zsh	0	:-	c003,122x26,0,0,6	:
+window	sqlite playground	2	:nvim	0	:	c004,122x26,0,0,7	:
+window	test	0	:nvim	0	:-	c005,122x26,0,0,8	:
+window	test	1	:zsh	1	:*	6030,122x26,0,0,11	:
+state	course-upload-tele	

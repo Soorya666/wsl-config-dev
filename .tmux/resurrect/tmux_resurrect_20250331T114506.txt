@@ -1,0 +1,25 @@
+pane	course-upload-tele	0	0	:	0	SAUCEBXSS	:/mnt/e/e-drive/coding/newnew/py/telegram_scripting_shit	1	zsh	:
+pane	course-upload-tele	1	0	:-	0	SAUCEBXSS	:/mnt/e/e-drive/coding/newnew/py/telegram_scripting_shit/folder-to-topic	1	nvim	:nvim main.py
+pane	course-upload-tele	2	1	:*	0	SAUCEBXSS	:/mnt/e/e-drive/coding/newnew/py/_playground	1	nvim	:nvim ddos-attack-dolphin.py
+pane	mysql-playground	0	1	:*	0	SAUCEBXSS	:/mnt/e/e-drive/coding/newnew/notes/MYSQL-NOTES	1	nvim	:nvim notes.md
+pane	mysql-playground	1	0	:-	0	SAUCEBXSS	:/mnt/e/e-drive/coding/newnew/notes/MYSQL-NOTES	1	zsh	:
+pane	pypg	0	1	:*	0	SAUCEBXSS	:/mnt/e/e-drive/coding/newnew/py/_playground/python-crash-course-book	1	zsh	:
+pane	pypg	1	0	:-	0	SAUCEBXSS	:/mnt/e/e-drive/coding/newnew/py/_playground/python-crash-course-book	1	zsh	:
+pane	sqlite playground	0	1	:*	0	SAUCEBXSS	:/mnt/e/e-drive/coding/newnew/py/todo-cli	1	nvim	:nvim sqlite-notes.md
+pane	sqlite playground	1	0	:-	0	SAUCEBXSS	:/mnt/e/e-drive/coding/newnew/py/todo-cli	1	zsh	:
+pane	sqlite playground	2	0	:	0	SAUCEBXSS	:/mnt/e/e-drive/coding/newnew/py/todo-cli	1	nvim	:nvim sqlite3-sylla-tutspoint.md
+pane	test	0	0	:-	0	SAUCEBXSS	:/mnt/e/e-drive/coding/newnew/js/_NODEJS/_playground/server-sent-events-medium	1	nvim	:nvim index.js
+pane	test	1	1	:*	0	SAUCEBXSS	:/mnt/e/e-drive/coding/newnew/js/_NODEJS/_playground/server-sent-events-medium	1	zsh	:
+window	course-upload-tele	0	:zsh	0	:	bffe,122x26,0,0,1	:
+window	course-upload-tele	1	:nvim	0	:-	bfff,122x26,0,0,2	:
+window	course-upload-tele	2	:nvim	1	:*	6031,122x26,0,0,12	:
+window	mysql-playground	0	:nvim	1	:*	c000,122x26,0,0,3	:
+window	mysql-playground	1	:zsh	0	:-	c001,122x26,0,0,4	:
+window	pypg	0	:zsh	1	:*	c002,122x26,0,0,5	:
+window	pypg	1	:zsh	0	:-	c003,122x26,0,0,6	:
+window	sqlite playground	0	:nvim	1	:*	c004,122x26,0,0,7	:
+window	sqlite playground	1	:zsh	0	:-	c005,122x26,0,0,8	:
+window	sqlite playground	2	:nvim	0	:	c006,122x26,0,0,9	:
+window	test	0	:nvim	0	:-	602f,122x26,0,0,10	:
+window	test	1	:zsh	1	:*	6030,122x26,0,0,11	:
+state	course-upload-tele	sqlite playground

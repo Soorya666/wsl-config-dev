@@ -1,0 +1,39 @@
+pane	course-upload-tele	0	0	:	0	SAUCEBXSS	:/mnt/e/e-drive/coding/newnew/py/telegram_scripting_shit	1	zsh	:
+pane	course-upload-tele	1	0	:-	0	SAUCEBXSS	:/mnt/e/e-drive/coding/newnew/py/telegram_scripting_shit/folder-to-topic	1	nvim	:nvim main.py
+pane	course-upload-tele	2	1	:*	0	SAUCEBXSS	:/mnt/e/e-drive/coding/newnew/py/_playground	1	nvim	:nvim ddos-attack-dolphin.py
+pane	mysql-playground	0	1	:*	0	SAUCEBXSS	:/mnt/e/e-drive/coding/newnew/notes/MYSQL-NOTES	1	nvim	:nvim notes.md
+pane	mysql-playground	1	0	:-	0	SAUCEBXSS	:/mnt/e/e-drive/coding/newnew/notes/MYSQL-NOTES	1	zsh	:
+pane	notes	0	0	:-	0	SAUCEBXSS	:/mnt/e/e-drive/coding/newnew/notes	1	nvim	:nvim networking-notes.md
+pane	notes	1	1	:*	0	SAUCEBXSS	:/mnt/e/e-drive/coding/newnew/notes	1	nvim	:nvim aws-learning.md
+pane	notes	2	0	:	0	SAUCEBXSS	:/home/nigger/.config/nvim/lua/plugins	1	nvim	:nvim plugins.lua
+pane	pypg	0	0	:	0	SAUCEBXSS	:/mnt/e/e-drive/coding/newnew/py/_playground/python-crash-course-book	1	python3	:python3
+pane	pypg	1	0	:	0	SAUCEBXSS	:/mnt/e/e-drive/coding/newnew/py/_playground/python-crash-course-book	1	nvim	:nvim index.py
+pane	pypg	3	0	:-	0	SAUCEBXSS	:/mnt/e/e-drive/coding/newnew/py/_playground/python-crash-course-book	1	nvim	:nvim notes.md
+pane	pypg	4	1	:*	0	SAUCEBXSS	:/mnt/e/e-drive/coding/newnew/py/dsa	1	zsh	:
+pane	reactpg	0	0	:-	0	SAUCEBXSS	:/mnt/e/e-drive/coding/newnew/react-learn	1	zsh	:
+pane	reactpg	1	1	:*	0	SAUCEBXSS	:/mnt/e/e-drive/coding/newnew/react-learn/src	1	nvim	:nvim App.js
+pane	reactpg	2	0	:	0	SAUCEBXSS	:/mnt/e/e-drive/coding/newnew/react-learn/src	1	zsh	:
+pane	reactpg	3	0	:	0	SAUCEBXSS	:/mnt/e/e-drive/coding/newnew/react-learn/src	1	nvim	:nvim notes.md
+pane	sqlite playground	0	1	:*	0	SAUCEBXSS	:/mnt/e/e-drive/coding/newnew/py/todo-cli	1	nvim	:nvim sqlite-notes.md
+pane	sqlite playground	1	0	:-	0	SAUCEBXSS	:/mnt/e/e-drive/coding/newnew/py/todo-cli	1	zsh	:
+pane	sqlite playground	2	0	:	0	SAUCEBXSS	:/mnt/e/e-drive/coding/newnew/py/todo-cli	1	nvim	:nvim sqlite3-sylla-tutspoint.md
+window	course-upload-tele	0	:zsh	0	:	bffe,122x26,0,0,1	:
+window	course-upload-tele	1	:nvim	0	:-	bfff,122x26,0,0,2	:
+window	course-upload-tele	2	:nvim	1	:*	c000,122x26,0,0,3	:
+window	mysql-playground	0	:nvim	1	:*	c001,122x26,0,0,4	:
+window	mysql-playground	1	:zsh	0	:-	c002,122x26,0,0,5	:
+window	notes	0	:nvim	0	:-	6038,122x26,0,0,19	:
+window	notes	1	:nvim	1	:*	e02f,122x26,0,0,20	:
+window	notes	2	:nvim	0	:	e030,122x26,0,0,21	:
+window	pypg	0	:python3	0	:	6033,122x26,0,0,14	:
+window	pypg	1	:nvim	0	:	6034,122x26,0,0,15	:
+window	pypg	3	:nvim	0	:-	6035,122x26,0,0,16	:
+window	pypg	4	:zsh	1	:*	e031,122x26,0,0,22	:
+window	reactpg	0	:zsh	0	:-	c004,122x26,0,0,7	:
+window	reactpg	1	:nvim	1	:*	c005,122x26,0,0,8	:
+window	reactpg	2	:zsh	0	:	c006,122x26,0,0,9	:
+window	reactpg	3	:nvim	0	:	602f,122x26,0,0,10	:
+window	sqlite playground	0	:nvim	1	:*	6030,122x26,0,0,11	:
+window	sqlite playground	1	:zsh	0	:-	6031,122x26,0,0,12	:
+window	sqlite playground	2	:nvim	0	:	6032,122x26,0,0,13	:
+state	notes	
